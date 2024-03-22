@@ -2,7 +2,7 @@
 
 # Project: MVC Authentication System
 
-![DeployButton](https://icons8.com/icon/uooD0BINPxNE/button)
+[<img src="https://icons8.com/icon/uooD0BINPxNE/button" witdh="150px"/>]
 
 **Deploy by clicking the above**
 
