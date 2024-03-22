@@ -2,7 +2,7 @@
 
 # Project: MVC Authentication System
 
-[(<img src="public/Images/clickbutton.png" width="35px" height="35px"/>)](https://glitch.com/edit/#!/authenticationrestapiakash?path=.glitch-assets%3A1%3A0)
+[<img src="public/Images/clickbutton.png" width="35px" height="35px"/>](https://glitch.com/edit/#!/authenticationrestapiakash?path=.glitch-assets%3A1%3A0)
 
 **Deploy by clicking the above**
 
