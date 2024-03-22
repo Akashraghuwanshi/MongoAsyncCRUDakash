@@ -2,7 +2,7 @@
 
 # Project: MVC Authentication System
 
-[<img src="public/Images/clickbutton.png" width="35px" height="35px"/>](https://glitch.com/edit/#!/mvcauthenticationakash)
+
 
 **Deploy by clicking the above**
 
