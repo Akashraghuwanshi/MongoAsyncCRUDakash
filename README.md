@@ -2,7 +2,7 @@
 
 # Project: MVC Authentication System
 
-<img src="public/Images/clickbutton.png" />
+<img src="public/Images/clickbutton.png" width="20px" height="20px"/>
 
 **Deploy by clicking the above**
 
