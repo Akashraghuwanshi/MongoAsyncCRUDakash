@@ -2,7 +2,7 @@
 
 # Project: MVC Authentication System
 
-[![DeployButton](https://img.icons8.com/material-rounded/24/000000/doorbell.png)]
+[![DeployButton](https://www.shutterstock.com/image-vector/white-play-button-vector-icon-gray-408292723)]
 
 **Deploy by clicking the above**
 
